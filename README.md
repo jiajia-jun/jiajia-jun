@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm jiajiajun
 
-Welcome to my GitHub profile!
+Welcome😝
 
 ---
 

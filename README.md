@@ -15,7 +15,8 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ---
+### 😶‍🌫️你又来了哎
 
-![访客统计](https://komarev.com/ghpvc/?username=jiajiajun&label=😋%20YouHaveSeen&color=blue&style=flat-square)
+![访客统计](https://komarev.com/ghpvc/?username=jiajiajun&Label=😋%20YouHaveSeen&color=blue&style=flat-square)
 
 </div>

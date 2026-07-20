@@ -14,6 +14,7 @@
 ![GORM](https://img.shields.io/badge/GORM-000000?style=flat-square&logo=go&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 ### 😶‍🌫️你又来了哎

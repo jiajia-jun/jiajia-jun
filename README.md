@@ -15,10 +15,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
----
-### 😶‍🌫️你又来了哎
-
-![访客统计](https://komarev.com/ghpvc/?username=jiajiajun&Label=😋%20YouHaveSeen&color=blue&style=flat-square)
-
-</div>

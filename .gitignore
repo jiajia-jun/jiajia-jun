@@ -1,0 +1,9 @@
+# IDE
+.idea/
+
+# 本地参考文件，不纳入个人主页仓库
+CLAUDE.md
+example.md
+
+# 本地临时备份
+README.local-backup.md

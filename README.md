@@ -14,7 +14,7 @@
 
 <img src="https://camo.githubusercontent.com/4fb14dcf684096ad309cafd67586d1193bc944f19f1fe3d3717ea18cd3cef672/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f64663863343461316432306162333637666463623231383830393835666433332f74656e6f722e676966" align="right" width="30%" alt=""/>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> 怎么联系我
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> 关于我
 
 <p align="center">
   <a href="https://github.com/jiajia-jun">

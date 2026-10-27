@@ -5,7 +5,7 @@
     我叫 <em>jiajiajun</em>（aka <em>SheckHall</em>）
     <br/> 写 Go，也写 C++
     <br/> 偶尔做点工具，刷刷算法
-    <br/> 持续学习，也希望帮到社区
+    <br/> 正在持续学习，同时也希望帮到社区
     <br/> 菜鸟初上路，大佬请指教
   </samp>
   <br/>

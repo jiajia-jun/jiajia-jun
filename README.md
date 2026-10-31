@@ -48,19 +48,24 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> 完美等级（不是）
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiajia-jun&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计"/>
+  <img src="https://ghstats.dev/api/card?username=jiajia-jun&theme=midnight&border_radius=8.5" alt="GitHub Stats Card" />
 </p>
 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" width="40px" alt="仓库" /> 我的仓库
+
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=jiajia-jun&theme=midnight&layout=horizontal_list" alt="Top Languages" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjiajia-jun&query=%24.public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&style=for-the-badge&logo=github&color=4CAF50" alt="公开仓库"/>
-  <img src="https://img.shields.io/github/followers/jiajia-jun?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=blue" alt="关注者"/>
+  <img src="https://ghstats.dev/api/mini?username=jiajia-jun&theme=dracula&style=for-the-badge" alt="GitHub Mini Badge" />
+  <img src="https://ghstats.dev/api/mini?username=jiajia-jun&theme=dracula&metric=followers&style=for-the-badge" alt="GitHub Mini Badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jiajia-jun&theme=tokyonight&hide_border=true" alt="GitHub 连续贡献"/>
+  <img src="https://streak-stats.demolab.com/?user=jiajia-jun&theme=tokyonight&hide_border=true" alt="GitHub 连续贡献"/>
 </p>
 
 <p align="center">

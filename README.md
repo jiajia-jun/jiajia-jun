@@ -48,7 +48,7 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> 完美等级（不是）
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=jiajia-jun&theme=midnight&border_radius=8.5" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=jiajia-jun&border_radius=50&hide=avg%2Ctrend%2Cweek%2Cactive_day" alt="GitHub Stats Card" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" width="40px" alt="仓库" /> 我的仓库

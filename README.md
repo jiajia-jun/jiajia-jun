@@ -51,21 +51,18 @@
   <img src="https://ghstats.dev/api/card?username=jiajia-jun&border_radius=50&hide=avg%2Ctrend%2Cweek%2Cactive_day" alt="GitHub Stats Card" />
 </p>
 
+---
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" width="40px" alt="仓库" /> 我的仓库
 
 <p align="center">
   <img src="https://ghstats.dev/api/langs?username=jiajia-jun&theme=midnight&layout=horizontal_list" alt="Top Languages" />
 </p>
 
----
 
 <p align="center">
   <img src="https://ghstats.dev/api/mini?username=jiajia-jun&theme=dracula&style=for-the-badge" alt="GitHub Mini Badge" />
   <img src="https://ghstats.dev/api/mini?username=jiajia-jun&theme=dracula&metric=followers&style=for-the-badge" alt="GitHub Mini Badge" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jiajia-jun&theme=tokyonight&hide_border=true" alt="GitHub 连续贡献"/>
 </p>
 
 <p align="center">

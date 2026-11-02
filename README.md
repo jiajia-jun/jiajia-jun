@@ -49,7 +49,7 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> 完美等级（不是）
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=jiajia-jun&border_radius=50&hide=avg%2Ctrend%2Cweek%2Cactive_day" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=jiajia-jun&border_radius=50&hide=issues%2Chours%2Ctrend%2Cavg%2Cactive_day" alt="GitHub Stats Card" />
 </p>
 
 ---

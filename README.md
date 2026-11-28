@@ -1,8 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> (｡･∀･)ﾉﾞ你好！
 
+
 <p align="center">
   <samp>
-    我叫 <em>jiajiajun</em>（aka <em>SheckHall</em>）
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1000&width=435&lines=Welcome!+I'm+jiajiajun%2Caka+SheckHall;a+beginner+interested+in+backend+development" alt="Typing SVG" />
+    </a>
+    <br/>我叫 <em>jiajiajun</em>（aka <em>SheckHall</em>）
     <br/> 写 Go，也写 C++
     <br/> 我是一名在读大学生
     <br/> 偶尔做点工具，刷刷算法
@@ -12,8 +15,6 @@
   <br/>
   <br/>
 </p>
-
-<img src="https://camo.githubusercontent.com/4fb14dcf684096ad309cafd67586d1193bc944f19f1fe3d3717ea18cd3cef672/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f64663863343461316432306162333637666463623231383830393835666433332f74656e6f722e676966" align="right" width="30%" alt=""/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> 关于我
 
@@ -46,19 +47,16 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VScode"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> 完美等级（不是）
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jiajia-jun&include_all_commits=true&theme=tokyonight" alt="GitHub Stats Card" />
-</p>
-
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" width="40px" alt="仓库" /> 我的仓库
+### 我的仓库
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=jiajia-jun&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
-</p>
+
+<img src="https://github-stats-extended.vercel.app/api?username=jiajia-jun&include_all_commits=true&theme=tokyonight" align="right" height="200" alt="GitHub Stats Card" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=jiajia-jun&layout=compact&langs_count=6&theme=tokyonight" align="left" height="200" alt="Top Languages" />
+<br clear="all" />
+
+[![jiajia-jun's GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=jiajia-jun&theme=gotham&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jiajia-jun.jiajia-jun&left_text=%C2%A0%C2%A0%C2%A0%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0%C2%A0%C2%A0%C2%A0&left_color=%23595959&right_color=%231283c3" alt="访问次数"/>

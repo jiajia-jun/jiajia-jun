@@ -59,5 +59,10 @@
 
 
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiajia-jun&theme=tokyonight" alt="GitHub Streak" /></a>
+</p>
+
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jiajia-jun.jiajia-jun&left_text=%C2%A0%C2%A0%C2%A0%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0%C2%A0%C2%A0%C2%A0&left_color=%23595959&right_color=%231283c3" alt="访问次数"/>
 </p>

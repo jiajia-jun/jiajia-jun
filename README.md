@@ -51,12 +51,16 @@
 
 ### 我的仓库
 
-
-<img src="https://github-stats-extended.vercel.app/api?username=jiajia-jun&include_all_commits=true&theme=tokyonight" align="right" height="200" alt="GitHub Stats Card" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=jiajia-jun&layout=compact&langs_count=6&theme=tokyonight" align="left" height="200" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=jiajia-jun&layout=compact&langs_count=6&theme=tokyonight&card_width=400" align="left" height="180" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=jiajia-jun&include_all_commits=true&theme=tokyonight" align="right" height="180" alt="GitHub Stats Card" />
 <br clear="all" />
 
 [![jiajia-jun's GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=jiajia-jun&theme=gotham&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiajia-jun&theme=blueberry&locale=zh_Hans" alt="GitHub Streak" /></a>
+</p>
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jiajia-jun.jiajia-jun&left_text=%C2%A0%C2%A0%C2%A0%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0%C2%A0%C2%A0%C2%A0&left_color=%23595959&right_color=%231283c3" alt="访问次数"/>
